@@ -5,7 +5,7 @@ I split my code between my personal repositories and the [Route 1337, LLC](https
 
 - 🔭 I’m currently working on anything and everything automation
 - 💰 I’m currently learning about blockchains and Solidity
-- 👯 I’m looking to collaborate on [Ansible](https://github.com/route1337?q=ansible&type=&language=) roles and HomeKit projects
+- 👯 I’m looking to collaborate on [Python](https://github.com/ahrenstein?tab=repositories&q=&type=&language=python) projects involving automation
 - 🤔 I’m looking for help getting the most out of ARM based systems
 - 💬 Ask me about privacy and security online
 - 📫 How to reach me: You can [reach me here](https://www.ahrenstein.com/officially-me/)
