@@ -5,7 +5,7 @@ I split my code between my personal repositories and the [Route 1337 LLC](https:
 
 - 🔭 I’m currently working on various cryptocurrency related projects
 - 💰 I’m currently learning the inner workings of Kubernetes
-- 👯 I’m an [active](https://github.com/BanklessDAO) Level 2 Collaborator at [BanklessDAO](https://www.bankless.community/)
+- 👯 I’m an [active](https://github.com/BanklessDAO) Level 2 Collaborator and a team leader at [BanklessDAO](https://www.bankless.community/)
 - 🤔 I’m looking for help with improving [my Python code](https://github.com/ahrenstein?tab=repositories&q=&type=&language=python)
 - 💬 Ask me about privacy and security online. I'm very passionate about both.
 - 📫 How to reach me: You can [reach me here](https://www.ahrenstein.com/officially-me/)
